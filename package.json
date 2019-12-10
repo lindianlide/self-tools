@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "fs-extra": ""
+  },
+  "description": "",
+  "devDependencies": {},
+  "main": "null",
+  "name": "self-tools",
+  "version": "0.1"
+}
